@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 90% !important;
+  height: 90vh;
+  background-image: url('./img/ResumeAtInterview.jpg');
+  display: block;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.text__box {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  color: #fff;
+}
+
+.input__box {
+  position: absolute;
+  left: 10%;
+  top: 20%;
+}
+
+output {
+  position: absolute;
+  top: 20%;
+  left: 30%;
+}
